@@ -113,7 +113,6 @@ td {
 
 .button-92 {
   --c: #000000;
-  margin-left: 1060px !important;
     font-family: 'Poppins', sans-serif;
   background: linear-gradient(90deg, #0000 33%, #fff5, #0000 67%) var(--_p,100%)/300% no-repeat,
     #00aaff;
