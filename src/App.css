@@ -109,7 +109,7 @@ td {
 }
 
 
-/* Added Button Effect*/
+/* Here Button Effect*/
 
 .button-92 {
   --c: #000000;
@@ -150,7 +150,7 @@ td {
 }
 
 
-/* Loading Effect */
+/* Here Loading Effect */
 .spinner {
   border: 8px solid #f3f3f3;
   border-top: 8px solid #00aaff;
@@ -158,7 +158,7 @@ td {
   width: 60px;
   height: 60px;
   animation: spin 2s linear infinite;
-  margin: 20px auto; /* Center the spinner */
+  margin: 20px auto; 
 }
 
 @keyframes spin {
