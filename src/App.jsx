@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from "react";
 import "./App.css";
-import ApiData from "./components/APIData";
+import ApiData from "./components/ApiData";
 
 
 function App() {
